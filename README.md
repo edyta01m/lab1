@@ -1,1 +1,1 @@
-To repozytorium bedzie służyć do ćwiczeń związanych z usługami kontroli wersji.
+To repozytorium będzie slużyć do ćwiczeń związanych z usługami kontroli wersji.
